@@ -1,0 +1,687 @@
+{
+  "Topics": [
+    {
+      "id": "1e57a344-704b-459d-a221-2c8380d79ee7",
+      "title": "Beckn Open Network",
+      "resources": {
+        "links": [
+          {
+            "url": "https://beckn-registry.readthedocs.io/en/latest/usage/overview.html#beckn-open-network",
+            "type": "article"
+          },
+          {
+            "url": "https://becknprotocol.io/imagining-with-beckn/",
+            "type": "article"
+          },
+          {
+            "url": "https://developers.becknprotocol.io/docs/introduction/beckn-protocol-specification",
+            "type": "article"
+          }
+        ],
+        "videos": [
+          {
+            "url": " https://www.youtube.com/watch?v=XrPFrP29ZG8",
+            "type": "video"
+          }
+        ]
+      }
+    },
+    {
+      "id": "a570966c-4015-4560-950d-e387a40b63ba",
+      "title": "What is an Open Network?",
+      "resources": {
+        "links": [
+          {
+            "url": "https://www.techtarget.com/searchnetworking/definition/open-networking",
+            "type": "article"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1UaFwMUfUTPDiPg_BxpRAmWM-5C9MeEGb/view",
+            "type": "article"
+          },
+          {
+            "url": "https://worldbank.scene7.com/s7viewers/html5/VideoViewer.html?asset=worldbankprod/Enabling%20Equitable%20Market%20Access%20-%20without%20the%20questions%20and%20answers-AVS&config=/conf/global/settings/dam/dm/presets/viewer/WB-Player-with-Social-Sharing&serverUrl=https://worldbank.scene7.com/is/image/&contenturl=https://worldbank.scene7.com/is/content/&posterimage=worldbankprod/Enabling%20Equitable%20Market%20Access%20-%20without%20the%20questions%20and%20answers-AVS&videoserverurl=https://worldbank.scene7.com/is/content",
+            "type": "article"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=7Otfcy37-NE",
+            "type": "video"
+          }
+        ]
+      }
+    },
+    {
+      "id": "cf8bf8bf-ee24-41ab-8540-2a5d41c53e25",
+      "title": "What is Beckn?",
+      "resources": {
+        "links": [
+          {
+            "url": "https://becknprotocol.io/",
+            "type": "article"
+          },
+          {
+            "url": "https://journal.accsindia.org/show.article.php?id=121",
+            "type": "article"
+          },
+          {
+            "url": "https://becknprotocol.io/home",
+            "type": "article"
+          },
+          {
+            "url": "https://becknprotocol.io/wp-content/themes/protocol/images/pdf/what_is_beckn.pdf",
+            "type": "article"
+          },
+          {
+            "url": "https://drive.google.com/file/d/1UaFwMUfUTPDiPg_BxpRAmWM-5C9MeEGb/view",
+            "type": "article"
+          }
+        ],
+        "videos": [
+          {
+            "url": "https://www.youtube.com/watch?v=gefmygtzZR8",
+            "type": "video"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=41RiBu6zT9Y",
+            "type": "video"
+          },
+          {
+            "url": "https://developers.becknprotocol.io/docs/introduction/video-overview",
+            "type": "video"
+          },
+          {
+            "url": "https://www.youtube.com/watch?v=cDP7e1BWgek",
+            "type": "video"
+          }
+        ]
+      }
+    }
+  ],
+  "Milestone": {
+    "name": "Understanding Open Networks",
+    "intro_video_url": "https://youtu.be/fXJQ3QUsTdk",
+    "problem_statement": "Dive into the world of open networking with this Milestone, where you''ll unravel the concept of open networking as the bedrock of modern digital communication. Through videos and available literature, you will understand how open networks function using open standards and commodity hardware, promoting interoperability and flexibility. You''ll explore various definitions and characteristics of open networking, including the importance of open APIs, industry standards, and open-source components. Discussions will focus on how open networking contrasts with closed systems, and you''ll be introduced to the organizations like the Open Networking Foundation (ONF) that are pioneering these efforts. This journey will demystify the principles of software-defined networking (SDN) and its role in open networks, preparing you to grasp the Beckn Protocol''s place within this landscape.",
+    "learning_competencies": [
+      "Understanding the principles and benefits of open networking.",
+      "Recognizing the components and characteristics that define an open network.",
+      "Appreciating the role of SDN in enhancing network control and flexibility.",
+      "Identifying the role of organizations like ONF in promoting open networking standards."
+    ],
+    "Releases": [
+      {
+        "body": "Foundation of Open Networking",
+        "description": "Learn the basics of open networking through introductory videos and reading materials.",
+        "release number": 1
+      },
+      {
+        "body": "Characteristics and Components",
+        "description": "Identify and understand the key characteristics that define an open network.",
+        "release number": 2
+      },
+      {
+        "body": "SDN and Open Networking",
+        "description": "Explore how SDN architecture contributes to the agility of open networks.",
+        "release number": 3
+      },
+      {
+        "body": "Community and Standards",
+        "description": "Discuss the ONF''s role in developing standards and fostering community in open networking.",
+        "release number": 4
+      },
+      {
+        "body": "Share you Knowledge",
+        "description": "Share 3 broad learning you have had in this Milestone with your community on Discord.",
+        "release number": 5
+      }
+    ]
+  },
+  "Quiz": {
+    "Questions": [
+      {
+        "question_number": 1,
+        "question_text": "What is an open network?",
+        "options": [
+          {
+            "option": "A",
+            "text": "A network with restricted user access."
+          },
+          {
+            "option": "B",
+            "text": "A network using open protocols and standards."
+          },
+          {
+            "option": "C",
+            "text": "A network with high costs due to proprietary hardware."
+          },
+          {
+            "option": "D",
+            "text": "A private network managed by a single organization."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 2,
+        "question_text": "Which organization is known for its contribution to open networking?",
+        "options": [
+          {
+            "option": "A",
+            "text": "Apple Inc."
+          },
+          {
+            "option": "B",
+            "text": "Open Networking Foundation (ONF)."
+          },
+          {
+            "option": "C",
+            "text": "International Telecommunications Union (ITU)."
+          },
+          {
+            "option": "D",
+            "text": "Closed Network Systems Ltd."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 3,
+        "question_text": "Open networking promotes:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Vendor lock-in."
+          },
+          {
+            "option": "B",
+            "text": "Interoperability and flexibility."
+          },
+          {
+            "option": "C",
+            "text": "Use of proprietary software only."
+          },
+          {
+            "option": "D",
+            "text": "Decreased network control."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 4,
+        "question_text": "Software-Defined Networking (SDN) contributes to open networks by:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Centralizing network intelligence."
+          },
+          {
+            "option": "B",
+            "text": "Encouraging the use of proprietary hardware."
+          },
+          {
+            "option": "C",
+            "text": "Decreasing network reliability."
+          },
+          {
+            "option": "D",
+            "text": "Increasing operational complexity."
+          }
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question_number": 5,
+        "question_text": "What is a characteristic feature of open APIs in open networking?",
+        "options": [
+          {
+            "option": "A",
+            "text": "They restrict the types of applications that can be developed."
+          },
+          {
+            "option": "B",
+            "text": "They ensure communication between different network providers."
+          },
+          {
+            "option": "C",
+            "text": "They increase the cost of network management."
+          },
+          {
+            "option": "D",
+            "text": "They decrease network security."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 6,
+        "question_text": "How does Beckn Protocol relate to open networks?",
+        "options": [
+          {
+            "option": "A",
+            "text": "It is a closed protocol for proprietary networks."
+          },
+          {
+            "option": "B",
+            "text": "It is an open protocol that facilitates interoperable service discovery and engagement."
+          },
+          {
+            "option": "C",
+            "text": "It does not support open networking principles."
+          },
+          {
+            "option": "D",
+            "text": "It is unrelated to digital networks."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 7,
+        "question_text": "Beckn Protocol aims to:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Increase the complexity of e-commerce."
+          },
+          {
+            "option": "B",
+            "text": "Limit the reach of digital services."
+          },
+          {
+            "option": "C",
+            "text": "Decentralize the ability to provide and consume services."
+          },
+          {
+            "option": "D",
+            "text": "Centralize all e-commerce on a single platform."
+          }
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 8,
+        "question_text": "Which layer of the Beckn Protocol allows for service discovery and engagement?",
+        "options": [
+          {
+            "option": "A",
+            "text": "Transaction Layer."
+          },
+          {
+            "option": "B",
+            "text": "Registry Infrastructure Layer."
+          },
+          {
+            "option": "C",
+            "text": "Communication Layer."
+          },
+          {
+            "option": "D",
+            "text": "Certification Layer."
+          }
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question_number": 9,
+        "question_text": "In Beckn Protocol, a Beckn Gateway (BG) is used for:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Storing personal data of users."
+          },
+          {
+            "option": "B",
+            "text": "Facilitating discovery and interaction between BAPs and BPPs."
+          },
+          {
+            "option": "C",
+            "text": "Handling financial transactions only."
+          },
+          {
+            "option": "D",
+            "text": "Increasing transaction costs."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 10,
+        "question_text": "What is Beckn Protocol’s approach to data security and privacy?",
+        "options": [
+          {
+            "option": "A",
+            "text": "No encryption is used to protect data."
+          },
+          {
+            "option": "B",
+            "text": "Data is publicly accessible to everyone."
+          },
+          {
+            "option": "C",
+            "text": "Utilizes open standards for secure and private data exchanges."
+          },
+          {
+            "option": "D",
+            "text": "Only uses proprietary security measures."
+          }
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 11,
+        "question_text": "The Beckn Protocol fosters an ecosystem that is:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Closed and restrictive."
+          },
+          {
+            "option": "B",
+            "text": "Open and inclusive."
+          },
+          {
+            "option": "C",
+            "text": "Limited to specific industries."
+          },
+          {
+            "option": "D",
+            "text": "Not scalable"
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 12,
+        "question_text": "What is the significance of Beckn’s open registries?",
+        "options": [
+          {
+            "option": "A",
+            "text": "They store detailed information about network participants."
+          },
+          {
+            "option": "B",
+            "text": "They limit who can become a network participant."
+          },
+          {
+            "option": "C",
+            "text": "They function as closed databases for select users."
+          },
+          {
+            "option": "D",
+            "text": "They prevent new participants from joining the network."
+          }
+        ],
+        "correct_answer": "A"
+      },
+      {
+        "question_number": 13,
+        "question_text": "Beckn Protocol is designed to be industry-agnostic, meaning:",
+        "options": [
+          {
+            "option": "A",
+            "text": "It can only be used in the tech industry."
+          },
+          {
+            "option": "B",
+            "text": "It is tailored for the financial sector."
+          },
+          {
+            "option": "C",
+            "text": "It is applicable across various sectors."
+          },
+          {
+            "option": "D",
+            "text": "It is not suitable for any established industry."
+          }
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 14,
+        "question_text": "What is the role of the Open Network Operating System (ONOS) in open networking?",
+        "options": [
+          {
+            "option": "A",
+            "text": "It is a proprietary operating system for closed networks."
+          },
+          {
+            "option": "B",
+            "text": "It is an operating system that promotes open networking principles."
+          },
+          {
+            "option": "C",
+            "text": "It functions to reduce network control and flexibility."
+          },
+          {
+            "option": "D",
+            "text": "It is not related to open networking."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 15,
+        "question_text": "The Beckn Foundation provides:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Proprietary software solutions."
+          },
+          {
+            "option": "B",
+            "text": "Regulatory frameworks for closed networks."
+          },
+          {
+            "option": "C",
+            "text": "Governance for the Beckn Protocol."
+          },
+          {
+            "option": "D",
+            "text": "Financial loans for network infrastructure."
+          }
+        ],
+        "correct_answer": "C"
+      },
+      {
+        "question_number": 16,
+        "question_text": "A key benefit of open networking is:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Increased dependency on single vendors."
+          },
+          {
+            "option": "B",
+            "text": "Lower operational costs and increased innovation."
+          },
+          {
+            "option": "C",
+            "text": "Restricted access to network resources."
+          },
+          {
+            "option": "D",
+            "text": "Complex network management."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 17,
+        "question_text": "Beckn Protocol’s open-source nature contributes to:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Reducing transparency in digital services."
+          },
+          {
+            "option": "B",
+            "text": "Enhancing collaboration and community-driven development."
+          },
+          {
+            "option": "C",
+            "text": "Promoting vendor lock-in strategies."
+          },
+          {
+            "option": "D",
+            "text": "Complicating service deployment and management."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 18,
+        "question_text": "In the context of Beckn Protocol, interoperability refers to:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Systems operating independently without integration."
+          },
+          {
+            "option": "B",
+            "text": "The ability of diverse systems to work together seamlessly."
+          },
+          {
+            "option": "C",
+            "text": "A lack of standards for systems to communicate."
+          },
+          {
+            "option": "D",
+            "text": "The use of proprietary interfaces for system communication."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 19,
+        "question_text": "What is the purpose of Beckn’s Domain taxonomy?",
+        "options": [
+          {
+            "option": "A",
+            "text": "To restrict the types of businesses that can use the Beckn Protocol."
+          },
+          {
+            "option": "B",
+            "text": "To classify and standardize services within the network."
+          },
+          {
+            "option": "C",
+            "text": "To monopolize certain market sectors."
+          },
+          {
+            "option": "D",
+            "text": "To provide entertainment to network users."
+          }
+        ],
+        "correct_answer": "B"
+      },
+      {
+        "question_number": 20,
+        "question_text": "The open-source software movement relates to open networking by:",
+        "options": [
+          {
+            "option": "A",
+            "text": "Encouraging the use of closed, proprietary software."
+          },
+          {
+            "option": "B",
+            "text": "Promoting community-driven development and collaboration."
+          },
+          {
+            "option": "C",
+            "text": "Discouraging innovation and flexibility."
+          },
+          {
+            "option": "D",
+            "text": "Limiting the involvement of individual developers."
+          }
+        ],
+        "correct_answer": "B"
+      }
+    ],
+    "Answers": [
+      {
+        "question_number": 1,
+        "answer": "B"
+      },
+      {
+        "question_number": 2,
+        "answer": "B"
+      },
+      {
+        "question_number": 3,
+        "answer": "B"
+      },
+      {
+        "question_number": 4,
+        "answer": "A"
+      },
+      {
+        "question_number": 5,
+        "answer": "B"
+      },
+      {
+        "question_number": 6,
+        "answer": "B"
+      },
+      {
+        "question_number": 7,
+        "answer": "C"
+      },
+      {
+        "question_number": 8,
+        "answer": "A"
+      },
+      {
+        "question_number": 9,
+        "answer": "B"
+      },
+      {
+        "question_number": 10,
+        "answer": "C"
+      },
+      {
+        "question_number": 11,
+        "answer": "B"
+      },
+      {
+        "question_number": 12,
+        "answer": "A"
+      },
+      {
+        "question_number": 13,
+        "answer": "C"
+      },
+      {
+        "question_number": 14,
+        "answer": "B"
+      },
+      {
+        "question_number": 15,
+        "answer": "C"
+      },
+      {
+        "question_number": 16,
+        "answer": "B"
+      },
+      {
+        "question_number": 17,
+        "answer": "B"
+      },
+      {
+        "question_number": 18,
+        "answer": "B"
+      },
+      {
+        "question_number": 19,
+        "answer": "B"
+      },
+      {
+        "question_number": 20,
+        "answer": "B"
+      }
+    ]
+  },
+  
+}
