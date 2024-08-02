@@ -1,0 +1,183 @@
+{
+  "Milestone 3 - Beckn Protocol - Building with Beckn": {
+    "Intro Video": "https://youtu.be/BnYprcKGMn8",
+    "Statement": "Hello again!\n\nNow that you have an understanding of what the parts of Beckn are and how they work, let's dive deep into how you can build amazing experiences and products using the Beckn ecosystem.\n\nWe'll cover the aspects of building BAP, BPPs, working with Beckn Gateways, and then putting all these components together to create new ecosystems and experiences with Beckn.\n\nLet's understand how to build BAPs. This involves creating the consumer-facing side of the Beckn network. Designing intuitive interfaces that allow users to browse services, place orders, and initiate transactions is key. Think of it like building a mobile app for ordering food – the goal is to make the process as seamless and user-friendly as possible.\n\nNext, let's move on to building BPPs. This focuses on the service provider side. The platform will handle the fulfillment of transactions initiated by BAPs. For example, if developing a platform for restaurants, the BPP will manage incoming orders, update inventory, and ensure timely delivery of services. It's all about ensuring that the service providers can efficiently manage their end of the transaction.\n\nNow, let's talk about working with Beckn Gateways. BGs are crucial for ensuring smooth communication between BAPs and BPPs. When building solutions, integrating with BGs is necessary to facilitate the flow of data and ensure that transactions are processed seamlessly. Think of BGs as the bridges that connect different parts of the network, enabling them to work together harmoniously.",
+    "Learning Competencies": [
+      "Understand the role that a BAP plays in the transaction",
+      "Understand the role that a BPP plays in the transaction",
+      "Gain a deeper understanding of what Beckn Gateway is and how it works",
+      "Understand the exact transaction flow on Beckn",
+      "Learn about various kinds of products that can be built with Beckn"
+    ],
+    "Releases": [
+      "Understanding BAPs: Explore the function and importance of Beckn Application Platforms in the transaction flow.",
+      "Understanding BPPs: Learn about Beckn Provider Platforms and their role in fulfilling transactions.",
+      "Understanding BGs: Dive into the workings of Beckn Gateways and their role in connecting BAPs and BPPs.",
+      "Transaction Flow: Study the step-by-step process of how transactions are carried out on the Beckn network.",
+      "Building with Beckn: Learn how to create and integrate products using the Beckn framework, leveraging its robust and flexible architecture."
+    ],
+    "Skills": [
+      "Technical Understanding: Grasping the technical aspects of BAPs, BPPs, and BGs.",
+      "Analytical Skills: Analyzing the transaction flow and identifying key components.",
+      "Practical Application: Applying knowledge to build with Beckn and create innovative solutions.",
+      "Critical Thinking: Evaluating the interactions and dependencies between different components of the Beckn network."
+    ]
+  },
+  "Topics": {
+    "Understanding Beckn Application Platforms (BAPs)": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/transactional-layer/"
+      ],
+      "Videos": [
+        "https://www.youtube.com/watch?v=sDJpofBFXiM"
+      ]
+    },
+    "Understanding Beckn Provider Platforms (BPPs)": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/transactional-layer/",
+        "https://developers.becknprotocol.io/docs/local-retail-specification/api-reference/beckn-provider/"
+      ],
+      "Videos": [
+        "https://www.youtube.com/watch?v=1tURkGLhSTs"
+      ]
+    },
+    "Understanding Beckn Gateway (BG)": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/transactional-layer/"
+      ],
+      "Videos": [
+        "https://youtu.be/1tURkGLhSTs?si=vDSieSY9tS9qQZAg"
+      ]
+    },
+    "Transaction Flow on Beckn": {
+      "Links": [
+        "https://becknprotocol.io/enabling-trusted-commerce-using-beckn-protocol-and-blockchain/"
+      ],
+      "Videos": [
+        "https://www.youtube.com/watch?v=xsfMjSDe7Zw",
+        "https://www.youtube.com/watch?v=iTjPtYEwq7U",
+        "https://www.youtube.com/watch?v=U5Zo3ANw5Dw"
+      ]
+    },
+    "Building with Beckn": {
+      "Links": [
+        "https://becknprotocol.io/imagining-mobility-with-beckn/",
+        "https://becknprotocol.io/imagining-local-retail-with-beckn/",
+        "https://www.google.com/search?q=ondc+can+change+commerce",
+        "https://ondc-static-website-media.s3.ap-south-1.amazonaws.com/res/daea2fs3n/image/upload/ondc-website/files/ONDC_Building_Trust_Consultation_Vf_utbodw/1664541553.pdf",
+        "https://onest.network/images/PDF/ONEST-Concept-Paper.pdf",
+        "https://developers.becknprotocol.io/build-with-beckn"
+      ],
+      "Videos": [
+        "https://www.youtube.com/watch?v=Qqj5KggZBsU",
+        "https://www.youtube.com/watch?v=dizVoQ1MVmY",
+        "https://www.youtube.com/watch?v=BmNhVs0JfJo",
+        "https://www.youtube.com/watch?v=cGmq6764Q-Y&list=PLBC6c8MLy9uVKCkCDJmbbHFtsn2_IroNn"
+      ]
+    }
+  },
+  "Quiz": {
+    "Questions": [
+      {
+        "Question": "The role of a BAP in the Beckn ecosystem is to:",
+        "Options": [
+          "A. Fulfill transactions initiated by consumers.",
+          "B. Initiate transactions within the network.",
+          "C. Connect BAPs and BPPs.",
+          "D. Handle financial transactions only."
+        ],
+        "Answer": "B. Initiate transactions within the network."
+      },
+      {
+        "Question": "The primary function of a BPP in Beckn is to:",
+        "Options": [
+          "A. Initiate transactions within the network.",
+          "B. Fulfill transactions by providing services or goods.",
+          "C. Store user data.",
+          "D. Ensure security and privacy."
+        ],
+        "Answer": "B. Fulfill transactions by providing services or goods."
+      },
+      {
+        "Question": "A Beckn Gateway (BG) facilitates the transaction process by:",
+        "Options": [
+          "A. Storing personal data of users.",
+          "B. Facilitating communication between BAPs and BPPs.",
+          "C. Handling financial transactions only.",
+          "D. Increasing transaction costs."
+        ],
+        "Answer": "B. Facilitating communication between BAPs and BPPs."
+      },
+      {
+        "Question": "The transaction flow on Beckn involves:",
+        "Options": [
+          "A. The process of storing data securely.",
+          "B. The step-by-step interaction between BAPs, BPPs, and BGs.",
+          "C. The process of building new applications.",
+          "D. The method of increasing transaction costs."
+        ],
+        "Answer": "B. The step-by-step interaction between BAPs, BPPs, and BGs."
+      },
+      {
+        "Question": "By building with Beckn, you can achieve:",
+        "Options": [
+          "A. Creating centralized marketplaces.",
+          "B. Developing innovative and decentralized digital services.",
+          "C. Restricting access to services.",
+          "D. Increasing dependency on single vendors."
+        ],
+        "Answer": "B. Developing innovative and decentralized digital services."
+      },
+      {
+        "Question": "A key benefit of using BAPs in the Beckn network is:",
+        "Options": [
+          "A. Initiating transactions directly from consumer-facing platforms.",
+          "B. Reducing transaction costs.",
+          "C. Storing transaction data.",
+          "D. Handling payment processing."
+        ],
+        "Answer": "A. Initiating transactions directly from consumer-facing platforms."
+      },
+      {
+        "Question": "What differentiates a BPP from a BAP in the Beckn framework?",
+        "Options": [
+          "A. BPPs fulfill transactions by providing services or goods, while BAPs initiate them.",
+          "B. BPPs initiate transactions, while BAPs fulfill them.",
+          "C. BPPs are consumer-facing, while BAPs provide services.",
+          "D. BPPs handle financial transactions, while BAPs handle data storage."
+        ],
+        "Answer": "A. BPPs fulfill transactions by providing services or goods, while BAPs initiate them."
+      },
+      {
+        "Question": "Beckn Gateways (BGs) contribute to the transaction flow by:",
+        "Options": [
+          "A. Initiating transactions.",
+          "B. Increasing transaction costs.",
+          "C. Facilitating communication between BAPs and BPPs.",
+          "D. Storing data."
+        ],
+        "Answer": "C. Facilitating communication between BAPs and BPPs."
+      },
+      {
+        "Question": "The significance of understanding the Beckn transaction flow is:",
+        "Options": [
+          "A. To restrict access to services.",
+          "B. To ensure efficient and smooth digital transactions.",
+          "C. To increase dependency on centralized systems.",
+          "D. To complicate the building process."
+        ],
+        "Answer": "B. To ensure efficient and smooth digital transactions."
+      },
+      {
+        "Question": "Using the Beckn framework provides developers with:",
+        "Options": [
+          "A. A limited set of application types.",
+          "B. Increased complexity in building applications.",
+          "C. Restricted interoperability between systems.",
+          "D. A flexible and open architecture for diverse digital services."
+        ],
+        "Answer": "D. A flexible and open architecture for diverse digital services."
+      }
+    ]
+  }
+}
