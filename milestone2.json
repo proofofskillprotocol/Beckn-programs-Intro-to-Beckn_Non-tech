@@ -1,0 +1,279 @@
+{
+  "Milestone 2 - Beckn Protocol - Specification & Architecture": {
+    "Intro Video link": "https://youtu.be/vGV_JVdVMBM",
+    "Statement": "In this milestone, you will embark on a journey to understand the intricacies of the Beckn Protocol Specification & Architecture. This exploration will include studying the foundational layers of the protocol, such as the Core APIs, Core schema, Domain taxonomy, Communication protocol, and Authentication and Smart Contracts. These components are essential for any platform wishing to be part of the Beckn open network. Learners will delve into the details of the Transaction Layer, where the interactions between Beckn Application Platforms (BAPs), Beckn Provider Platforms (BPPs), and Beckn Gateways (BGs) are choreographed to provide a seamless transaction experience. BAPs are consumer-facing entities that initiate transactions, while BPPs fulfill them by providing services or goods. BGs facilitate the discovery and interaction between BAPs and BPPs, enhancing the network's efficiency. Understanding the roles of these entities will be crucial for grasping the network's functionality. Furthermore, the Registry Infrastructure Layer will be covered, highlighting the importance of open registries that store detailed information about network participants and the process of becoming a recognized subscriber within the network",
+    "Learning Competencies": [
+      "Comprehend the purpose and structure of the Core APIs, Core schema, and Domain taxonomy.",
+      "Understand the Communication protocol and its role in integrating platforms into the Beckn network.",
+      "Identify the process and significance of Authentication and Smart Contracts within the network.",
+      "Recognize the different types of platforms within the Transaction Layer and their roles in facilitating commerce.",
+      "Describe the Registry Infrastructure and the process for platforms to become registered and trusted entities on the network."
+    ],
+    "Releases": [
+      "Introductory Overview: Start with a video and reading materials that introduce the concept of the Beckn Protocol and its aims within open networks.",
+      "Core Components Breakdown: Break down the Core APIs, Core schema, Domain taxonomy, Communication protocol, and Authentication and Smart Contracts, using non-technical language to explain their functions.",
+      "Transaction Layer Analysis: An in-depth look at the Transaction Layer focusing on the roles and interactions between BAPs, BPPs, and BGs.",
+      "Registry Infrastructure Exploration: Explore the Registry Infrastructure, understanding the process of registration and the significance of the subscriber status."
+    ],
+    "Skills": [
+      "Analytical Skills: Ability to break down complex protocol specifications into understandable components.",
+      "Conceptual Understanding: Grasping the high-level architecture and its impact on commerce transactions within an open network.",
+      "Critical Thinking: Evaluating the implications of the Beckn Protocol's design on different stakeholders in the network.",
+      "Communication: Articulating the workings of the Beckn Protocol and its layers in a clear, non-technical manner."
+    ]
+  },
+  "Topics": {
+    "Beckn Protocol Architecture": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/introduction/",
+        "https://becknprotocol.io/community/",
+        "https://becknprotocol.io/governance/",
+        "https://becknprotocol.io/imagining-with-beckn",
+        "https://drive.google.com/file/d/1uBPmgYvvf1VXYc-uO94m3_ZBIUuApIp8/view?usp=sharing",
+        "https://medium.com/@venkatramanm_69452/do-you-beckn-92cef5955b9e"
+      ],
+      "Videos": [
+        "https://www.youtube.com/watch?v=Ni-WySb47mE",
+        "https://youtu.be/XrPFrP29ZG8?feature=shared"
+      ]
+    },
+    "Beckn Protocol Specification": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/beckn-protocol-specification/",
+        "https://becknprotocol.io/reimagining-e-commerce-policies-through-open-protocols/"
+      ],
+      "Videos": [
+        "https://www.youtube.com/watch?v=dQlMJManVmA",
+        "https://www.youtube.com/watch?v=aX3wpShR1cc",
+        "https://www.youtube.com/watch?v=7Otfcy37-NE&list=PLBC6c8MLy9uVUIb1BOgdOa8tP4rX6c4aK"
+      ]
+    },
+    "Certification Layer": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/certification-layer/"
+      ],
+      "Videos": [
+        
+      ],
+      "Notes": "Note relevant"
+    },
+    "Registry Infrastructure": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/the-registry-infrastructure/"
+      ],
+      "Videos": [
+        
+      ]
+    },
+    "Transaction Layer": {
+      "Links": [
+        "https://developers.becknprotocol.io/docs/introduction/transactional-layer/"
+      ],
+      "Videos": [
+        "https://www.youtube.com/watch?v=1tURkGLhSTs"
+      ]
+    }
+  },
+  "Quiz": [
+    {
+      "Question": "What is the primary purpose of Beckn Protocol's Core APIs?",
+      "Options": [
+        "A. To facilitate secure financial transactions.",
+        "B. To allow for seamless interoperability between different platforms.",
+        "C. To provide encryption for messaging services.",
+        "D. To serve as a database for user information."
+      ],
+      "Answer": "B. To allow for seamless interoperability between different platforms."
+    },
+    {
+      "Question": "Beckn Protocol’s Communication protocol is designed to:",
+      "Options": [
+        "A. Prevent platforms from integrating with each other.",
+        "B. Enable seamless integration and communication across the Beckn network.",
+        "C. Act as a proprietary messaging service.",
+        "D. Encrypt all internet communications globally."
+      ],
+      "Answer": "B. Enable seamless integration and communication across the Beckn network."
+    },
+    {
+      "Question": "A Beckn Provider Platform (BPP) is responsible for:",
+      "Options": [
+        "A. Creating user accounts.",
+        "B. Managing inventory and fulfilling orders.",
+        "C. Performing financial audits.",
+        "D. Providing internet connectivity."
+      ],
+      "Answer": "B. Managing inventory and fulfilling orders."
+    },
+    {
+      "Question": "The Beckn Protocol's Registry Infrastructure is important because:",
+      "Options": [
+        "A. It is the only layer that uses encryption.",
+        "B. It stores detailed information about network participants.",
+        "C. It manages financial transactions.",
+        "D. It serves as a personal data repository for users."
+      ],
+      "Answer": "B. It stores detailed information about network participants."
+    },
+    {
+      "Question": "In the Beckn Protocol, a Beckn Gateway (BG) functions primarily to:",
+      "Options": [
+        "A. Store backup data.",
+        "B. Provide hardware for the network.",
+        "C. Facilitate discovery and interaction between BAPs and BPPs.",
+        "D. Handle user authentication exclusively."
+      ],
+      "Answer": "C. Facilitate discovery and interaction between BAPs and BPPs."
+    },
+    {
+      "Question": "The Transaction Layer in the Beckn Protocol is crucial because:",
+      "Options": [
+        "A. It exclusively handles financial transactions.",
+        "B. It standardizes the transaction process across different service domains.",
+        "C. It provides physical goods to consumers.",
+        "D. It serves as the only communication channel within the network."
+      ],
+      "Answer": "B. It standardizes the transaction process across different service domains."
+    },
+    {
+      "Question": "Beckn Protocol's Domain taxonomy is used to:",
+      "Options": [
+        "A. Categorize and standardize services within the network.",
+        "B. Limit the types of services that can be offered.",
+        "C. Rank the services based on their popularity.",
+        "D. Provide a rating system for service providers."
+      ],
+      "Answer": "A. Categorize and standardize services within the network."
+    },
+    {
+      "Question": "The purpose of Smart Contracts in Beckn Protocol is to:",
+      "Options": [
+        "A. Automate the execution of contracts and agreements.",
+        "B. Physically store signed paper contracts.",
+        "C. Slow down the transaction process for auditing.",
+        "D. Replace all legal documents with digital versions."
+      ],
+      "Answer": "A. Automate the execution of contracts and agreements."
+    },
+    {
+      "Question": "Beckn Protocol supports which types of platforms?",
+      "Options": [
+        "A. Only financial platforms.",
+        "B. Only transport and logistics platforms.",
+        "C. A wide range of service platforms across various sectors.",
+        "D. Exclusively e-commerce platforms."
+      ],
+      "Answer": "C. A wide range of service platforms across various sectors."
+    },
+    {
+      "Question": "The Core schema in Beckn Protocol is significant for:",
+      "Options": [
+        "A. Storing personal user data.",
+        "B. Defining the standard data structures used across the network.",
+        "C. Encrypting messages between users.",
+        "D. Creating graphical user interfaces."
+      ],
+      "Answer": "B. Defining the standard data structures used across the network."
+    },
+    {
+      "Question": "Authentication in Beckn Protocol ensures:",
+      "Options": [
+        "A. All users have the same level of access.",
+        "B. Only authorized entities can initiate or fulfill transactions.",
+        "C. Financial data is publicly accessible.",
+        "D. The system remains closed to new users."
+      ],
+      "Answer": "B. Only authorized entities can initiate or fulfill transactions."
+    },
+    {
+      "Question": "Beckn Protocol architecture is designed to be:",
+      "Options": [
+        "A. Closed and centralized.",
+        "B. Open and modular.",
+        "C. Rigid and inflexible.",
+        "D. Exclusively for proprietary use."
+      ],
+      "Answer": "B. Open and modular."
+    },
+    {
+      "Question": "The Beckn Protocol is governed by:",
+      "Options": [
+        "A. A single corporate entity.",
+        "B. The Beckn Foundation.",
+        "C. An international government organization.",
+        "D. Independent software developers only."
+      ],
+      "Answer": "B. The Beckn Foundation."
+    },
+    {
+      "Question": "The Certification Layer in Beckn Protocol is meant to:",
+      "Options": [
+        "A. Certify financial transactions only.",
+        "B. Validate the identity and authenticity of network participants.",
+        "C. Certify hardware components of the network.",
+        "D. Provide certification for IT professionals."
+      ],
+      "Answer": "B. Validate the identity and authenticity of network participants."
+    },
+    {
+      "Question": "What is the role of the Beckn Foundation with regards to the protocol?",
+      "Options": [
+        "A. To provide financial support to businesses.",
+        "B. To govern and guide the evolution of the protocol.",
+        "C. To manage the protocol’s data centers.",
+        "D. To develop proprietary extensions to the protocol."
+      ],
+      "Answer": "B. To govern and guide the evolution of the protocol."
+    },
+    {
+      "Question": "Beckn Protocol's modular design allows for:",
+      "Options": [
+        "A. Difficulty in upgrading system components.",
+        "B. Easy adaptation and scalability for various service domains.",
+        "C. Centralization of control over service offerings.",
+        "D. Limiting the protocol to specific geographic regions."
+      ],
+      "Answer": "B. Easy adaptation and scalability for various service domains."
+    },
+    {
+      "Question": "The Communication protocol in Beckn Protocol is critical for:",
+      "Options": [
+        "A. Increasing the cost of network maintenance.",
+        "B. Facilitating clear and standardized messaging across platforms.",
+        "C. Decreasing the efficiency of the network.",
+        "D. Creating a monopoly in service sectors."
+      ],
+      "Answer": "B. Facilitating clear and standardized messaging across platforms."
+    },
+    {
+      "Question": "The Core schema assists in:",
+      "Options": [
+        "A. Reducing the security of the network.",
+        "B. Standardizing the representation of data.",
+        "C. Promoting proprietary data formats.",
+        "D. Complicating the integration process."
+      ],
+      "Answer": "B. Standardizing the representation of data."
+    },
+    {
+      "Question": "In the context of Beckn Protocol, interoperability allows for:",
+      "Options": [
+        "A. Systems to operate in isolation.",
+        "B. Seamless service discovery and engagement across diverse platforms.",
+        "C. Unique service offerings that cannot interact with other services.",
+        "D. A single service provider to dominate the market."
+      ],
+      "Answer": "B. Seamless service discovery and engagement across diverse platforms."
+    },
+    {
+      "Question": "Beckn Protocol emphasizes privacy by:",
+      "Options": [
+        "A. Making all transaction data public.",
+        "B. Using open standards for secure data exchanges.",
+        "C. Sharing user data with all network participants.",
+        "D. Requiring personal information for all transactions."
+      ],
+      "Answer": "B. Using open standards for secure data exchanges."
+    }
+  ]
+}
